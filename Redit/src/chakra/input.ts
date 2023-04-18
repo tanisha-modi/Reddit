@@ -1,4 +1,4 @@
-// chakra ui
+// chakra ui 
 
 import type { ComponentStyleConfig } from "@chakra-ui/theme";
 
